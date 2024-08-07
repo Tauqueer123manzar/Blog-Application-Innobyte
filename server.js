@@ -18,11 +18,11 @@ async function main(){
 
 // const newuser= new user({
 //     username:"Md Taquueer manzar",
-//     password:"Taaj@123",
-//     email:"mdtauqueermanzar@gmail.com"
+//     password:"Taaj@786",
+//     email:"mdtauqueermanzar@gmail.com",
 // });
 
-newuser.save();
+// newuser.save();
 // ================================================== API Call =======================================================
 app.listen(port, () => {
     console.log(`Server is running on port: ${port}`);
